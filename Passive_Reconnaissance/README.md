@@ -51,8 +51,7 @@ Description: Shodan is a search engine for internet-connected devices like webca
 Example Search:
 
 nginx
-Copy
-Edit
+
 apache port:80 country:"PK"
 Use: Discover public services, device banners, and vulnerabilities.
 
@@ -61,9 +60,7 @@ Screenshot Placeholder:
 🗂️ 4. Whois
 Command:
 
-bash
-Copy
-Edit
+
 whois example.com
 Use: Retrieves domain registration info such as:
 
@@ -77,19 +74,12 @@ Name servers
 
 🌐 5. DNS Tools: dig, nslookup, dnsenum
 🔹 dig
-bash
-Copy
-Edit
+
 dig example.com any
 🔹 nslookup
-bash
-Copy
-Edit
+
 nslookup example.com
 🔹 dnsenum
-bash
-Copy
-Edit
 dnsenum example.com
 Use: Gather DNS records, mail servers, subdomains, and name server info.
 
@@ -98,9 +88,7 @@ Screenshot Placeholder:
 🧠 6. p0f (Passive OS Fingerprinting)
 Command:
 
-bash
-Copy
-Edit
+
 sudo p0f -i eth0
 Use: Sniffs network traffic to determine the OS, uptime, and system characteristics without actively scanning.
 
