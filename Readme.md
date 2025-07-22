@@ -11,7 +11,7 @@ Whether you're an aspiring Red Teamer, ethical hacker, or penetration tester, th
 ### 🔹 1. Passive and Active Reconnaissance
 - Understand the target without direct interaction (passive).
 - Engage in controlled probing of systems to gather more data (active).
-- Tools: `theHarvester`, `Shodan`, `Nmap`, `Recon-ng`, `Amass`
+- Tools: `Google Dorking`, `Shodan`, `DNsenum`, `p0f`, `netcraft`
 
 ### 🔹 2. Finding Vulnerabilities
 - Analyze gathered information to identify potential weaknesses.
