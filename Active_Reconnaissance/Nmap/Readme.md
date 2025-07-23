@@ -18,32 +18,6 @@ Official website: [https://nmap.org](https://nmap.org)
 Nmap gained widespread popularity due to its flexibility, performance, and extensibility. It has been featured in numerous books, security courses, and even Hollywood movies.
 
 ---
-
-## 🔧 How to Use
-
-To see the help file and command options:
-
-```bash
-nmap --help
-
-Scan a single IP:
-nmap 192.168.1.1
-
-Scan a range of IPs:
-nmap 192.168.1.1-100
-
-Scan an entire subnet:
-nmap 192.168.1.0/24
-
-Scan specific ports:
-nmap -p 80,443,21 192.168.1.1
-
-Service and version detection:
-nmap -sV 192.168.1.1
-
-OS Detection:
-nmap -O 192.168.1.1
-
 ✨ Key Features
 Host discovery – Identify live hosts in a network
 
@@ -75,3 +49,30 @@ Use Nmap only on networks and systems you own or are authorized to test. Unautho
 
 📢 Final Notes
 Nmap is a cornerstone of modern cybersecurity practices. From reconnaissance to exploitation, it lays the foundation for understanding a target's network landscape. Mastering Nmap is essential for anyone pursuing ethical hacking, penetration testing, or network administration.
+
+## 🔧 How to Use
+
+To see the help file and command options:
+
+```bash
+nmap --help
+
+Scan a single IP:
+nmap 192.168.1.1
+
+Scan a range of IPs:
+nmap 192.168.1.1-100
+
+Scan an entire subnet:
+nmap 192.168.1.0/24
+
+Scan specific ports:
+nmap -p 80,443,21 192.168.1.1
+
+Service and version detection:
+nmap -sV 192.168.1.1
+
+OS Detection:
+nmap -O 192.168.1.1
+
+
