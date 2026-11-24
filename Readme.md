@@ -84,4 +84,5 @@ Only conduct security testing against systems you own or have explicit permissio
 BS Cyber Security — Air University Multan Campus
 
 [![GitHub](https://img.shields.io/badge/GitHub-zohaaibb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaaibb)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaib.infosec@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-Send_Me_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=zohaib.infosec%40gmail.com)
